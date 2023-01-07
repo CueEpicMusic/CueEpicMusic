@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-I'm an aspiring software developer with a background in mechanical engineering and arts.
+I'm an aspiring software developer with a background in mechanical engineering and arts.  When I'm not coding I enjoy traveling, culinary adventures, powerlifting, and badminton.
 
 ## Technologies and tools ⚡ :
 
