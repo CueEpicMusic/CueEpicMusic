@@ -22,8 +22,8 @@ Technologies and tools :computer: :
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cueepicmusic&show_icons=true&locale=en" alt="cueepicmusic" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cueepicmusic&show_icons=true&locale=en&layout=compact" alt="cueepicmusic" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cueepicmusic&show_icons=true&locale=en" alt="cueepicmusic" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cueepicmusic&show_icons=true&locale=en&layout=compact" alt="cueepicmusic" /></p>
 
 # Contact me
 
