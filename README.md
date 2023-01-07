@@ -1,8 +1,8 @@
 # Hey there! :wave:
 
-Hello! I'm an aspiring software developer with a background in mechanical engineering and arts.
+I'm an aspiring software developer with a background in mechanical engineering and arts.
 
-# About me 🧑
+# About me 🤔
 
 ⚡ Technologies and tools :
 
