@@ -25,7 +25,7 @@ I'm an aspiring software developer with a background in mechanical engineering a
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cueepicmusic&show_icons=true&locale=en" alt="cueepicmusic" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cueepicmusic&show_icons=true&locale=en&layout=compact" alt="cueepicmusic" /></p>
 
-# Contact me
+# Contact me ✍️
 
 <a href="https://linkedin.com/in/tom-lo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-lo" height="30" width="40" /></a>
 <a href="mailto:chiatunglo@hotmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="tom-lo" height="30" width="40" /></a>
