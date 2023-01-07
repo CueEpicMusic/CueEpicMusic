@@ -1,4 +1,4 @@
-# Introduction
+# Hey there! :wave:
 
 Hello! I'm an aspiring software developer with a background in mechanical engineering and arts.
 
