@@ -1,4 +1,4 @@
-# Hey, I'm Tom Lo! :wave:
+# Hey there! :wave:
 
 I'm an aspiring software developer with a background in mechanical engineering and arts.
 
