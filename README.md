@@ -25,4 +25,4 @@ Technologies and tools:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cueepicmusic&show_icons=true&locale=en" alt="cueepicmusic" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cueepicmusic&show_icons=true&locale=en&layout=compact" alt="cueepicmusic" /></p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CueEpicMusic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tom-lo/)
+<a href="https://linkedin.com/in/tom-lo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-lo" height="30" width="40" /></a>
